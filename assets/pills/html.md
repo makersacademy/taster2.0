@@ -11,8 +11,11 @@ We strongly advise you to also take those quick pills:
 
 ``
 <!doctype html>
+
 <html>
+
 <head>
+
   <title> Title of your website </title>
   <style> Inline CSS, forget it </style>
   <meta> Mainly for SEO </meta>

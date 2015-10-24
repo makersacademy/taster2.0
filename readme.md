@@ -1,3 +1,6 @@
+THIS ARTICLE IS UNDER CONSTRUCTION
+
+Please note, as with all Makers Academy materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.
 
 Taster 2.0
 ================
@@ -91,8 +94,29 @@ To do so you will need to:
 Indent your code
 
 > **Bonus challenge:**
-Open the link in an another tab - you can check: attributes on links html on google
+Open the link in an another tab - you can check: "attributes on html links" on google
 
 Show off ! You just created your first html page !
 
 We will soon push it live, but you've just learnt something essential, you first work locally and when you've got the result you expected, you can push it live !
+
+### Section 2: Design your thought !
+
+Now that you know how to see your code in a web browser, let's start to think like a real developer !
+
+1. Pick a theme that you like
+2. Take a paper and a pen and draw your mock ups
+3. Think how you will build it
+4. Think how you will build it
+5. Think how you will build it
+6. Write the name of your tags on all the element you've designed
+7. Make a new folder for your images
+  - makersacademy
+    - Taster
+      - HTML Challenge
+        - assets
+          - images
+        - index.html
+8. Code your structure
+
+If you have trouble remembering all the tags we've seen previously,[take this pill :pill:](https://github.com/makersacademy/Taster/blob/master/post.md "Taster v1"), Glups

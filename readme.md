@@ -1,7 +1,7 @@
 
 Taster 2.0
 ================
-Taster 2.0 is a new version of [the link](https://github.com/makersacademy/Taster/blob/master/post.md "Taster v1")
+Taster 2.0 is a new version of [Taster v1](https://github.com/makersacademy/Taster/blob/master/post.md "Taster v1")
 The version 2.0 is longer and will be run during a full week end course.
 
 
@@ -35,4 +35,4 @@ You will end up by having a great overview and answers on:
   - What are the different possibilities ?
   - How everything is related and work together ?
 
-** You will end up with your first website !!! **
+**You will end up with your first website !!!**

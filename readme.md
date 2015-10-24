@@ -86,8 +86,12 @@ Let's stop talking and build something real !
 Open your text editor ([Atom](https://atom.io/ "Atom.io") or [Sublime Text  3](https://www.sublimetext.com/3 "Sublime text 3"))
 
 Create an index.html file
+
 Create a title
+
 Make your title becoming a link that goes anywhere you want
+
+Right click on your index.html file and open it with your web browser
 
 > **Good practices:**
 Indent your code

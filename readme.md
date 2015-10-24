@@ -104,10 +104,12 @@ We will soon push it live, but you've just learnt something essential, you first
 
 Now that you know how to see your code in a web browser, let's start to think like a real developer !
 
-Before starting to code, we need to think, plan and organize our self !
+Before starting to code, we need to think, plan and organize our self ! Talk as much as you can with your pair !
 
 1. Pick a theme that you like
 2. Take a paper and a pen and draw your mock ups
+Here an example of mock up:
+![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/mockup%20example.gif)
 3. Think how you will build it
 4. Think how you will build it
 5. Think how you will build it

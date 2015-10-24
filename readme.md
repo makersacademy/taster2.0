@@ -104,12 +104,14 @@ We will soon push it live, but you've just learnt something essential, you first
 
 Now that you know how to see your code in a web browser, let's start to think like a real developer !
 
+Before starting to code, we need to think, plan and organize our self !
+
 1. Pick a theme that you like
 2. Take a paper and a pen and draw your mock ups
 3. Think how you will build it
 4. Think how you will build it
 5. Think how you will build it
-6. Write the name of your tags on all the element you've designed
+6. Write the name of your tags on all the elements you've designed
 7. Make a new folder for your images
   - makersacademy
     - Taster
@@ -119,4 +121,4 @@ Now that you know how to see your code in a web browser, let's start to think li
         - index.html
 8. Code your structure
 
-If you have trouble remembering all the tags we've seen previously,[take this pill :pill:](https://github.com/makersacademy/Taster/blob/master/post.md "Taster v1"), Glups
+If you have trouble remembering all the tags we've seen during the course, [take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1"), Glups

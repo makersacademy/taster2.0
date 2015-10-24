@@ -35,7 +35,7 @@ You will end up by having a great overview and answers on:
   - What are the different possibilities ?
   - How everything is related and work together ?
 
-        ##**You will end up with your first website !!!**
+        ###You will end up with your first website !!!**
 
 Notices
 ================
@@ -77,21 +77,15 @@ Let's start by simply reproducing the picture bellow !
 
 To do so you will need to:
 
-1. Create a folder
-2. Create a index.html file
-3. Write some code :)
+1. Open your text editor ([Atom](https://atom.io/ "Atom.io") or [Sublime Text  3](https://www.sublimetext.com/3 "Sublime text 3"))
 
-Let's stop talking and build something real !
+2. Create an index.html file
 
-Open your text editor ([Atom](https://atom.io/ "Atom.io") or [Sublime Text  3](https://www.sublimetext.com/3 "Sublime text 3"))
+3. Create a title
 
-Create an index.html file
+4. Make your title becoming a link that goes anywhere you want
 
-Create a title
-
-Make your title becoming a link that goes anywhere you want
-
-Right click on your index.html file and open it with your web browser
+5. Right click on your index.html file and open it with your web browser
 
 > **Good practices:**
 Indent your code

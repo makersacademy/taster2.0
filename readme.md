@@ -38,7 +38,7 @@ You will end up by having a great overview and answers on:
   - What are the different possibilities ?
   - How everything is related and work together ?
 
-        ###You will end up with your first website !!!**
+        ###You will end up with your first website !!!
 
 Notices
 ================
@@ -64,7 +64,7 @@ In order to keep all your work organize and from the experience we have now, you
 
 Let's code !!!
 
-HTML Challenge
+HTML Challenge (about 1h30)
 ================
 
 Now that you understood:
@@ -112,18 +112,36 @@ Here an example of mock up, make it way more simple, this is a difficult example
 3. Think how you will build it
 4. Think how you will build it
 5. Think how you will build it
-6. Write the name of your tags on all the elements you've designed
-7. Make a new folder for your images
+6. Write on the paper all the name of your tags on all the elements you've designed
+
+### Section 4: Build it ! (30 min)
+
+We will now code our page !
+
+1. Make a new folder for your images
   - makersacademy
     - Taster
       - HTML Challenge
         - assets
           - images
         - index.html
-8. Code your structure
+2. Start to code the structure and put your content inside
 
 If you have trouble remembering all the tags we've seen during the course, [take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1"), Glups
 
-Hum... There is a little issue right ? Every elements are below the other ... Should we style it to make it pretty !?
+Hum... There is a little issue right ? Every elements are below the other ...
 
-### Section 3: Make it pretty ! 
+Should we style it to make it pretty !?
+
+
+CSS Challenge - Make it pretty !
+================
+
+### Section 1: Make the bridge !
+
+As you've seen during the lecture, we need to make some links between the HTML pages and the CSS pages.
+
+1. We need to tell the HTML page where is the stylesheet
+2. We now need to make a bridge but in between the different elements
+
+([take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1") if you have some trouble)

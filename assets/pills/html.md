@@ -9,13 +9,11 @@ We strongly advise you to also take those quick pills:
 - [:pill: html](https://github.com/makersacademy/course/blob/master/pills/html.md "html")
 - [:pill: html5](https://github.com/makersacademy/course/blob/master/pills/html5.md "html5")
 
-``
+
+```html
 <!doctype html>
-
 <html>
-
 <head>
-
   <title> Title of your website </title>
   <style> Inline CSS, forget it </style>
   <meta> Mainly for SEO </meta>
@@ -39,4 +37,4 @@ We strongly advise you to also take those quick pills:
   <footer>Footer of the current section/article</footer>
 </body>
 </html>
-``
+```

@@ -73,7 +73,7 @@ Now that you understood:
 
 We will create our first webpage step by step!
 
-### Section 1: Hello World !
+### Section 1: Hello World ! (20 min)
 Let's start by simply reproducing the picture bellow !
 
 ![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/Hello%20world.png)
@@ -100,15 +100,14 @@ Show off ! You just created your first html page !
 
 We will soon push it live, but you've just learnt something essential, you first work locally and when you've got the result you expected, you can push it live !
 
-### Section 2: Design your thought !
-
+### Section 2: Design your thought ! (30 min)
 Now that you know how to see your code in a web browser, let's start to think like a real developer !
 
 Before starting to code, we need to think, plan and organize our self ! Talk as much as you can with your pair !
 
 1. Pick a theme that you like
 2. Take a paper and a pen and draw your mock ups
-Here an example of mock up:
+Here an example of mock up, make it way more simple, this is a difficult example to begin:
 ![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/mockup%20example.gif)
 3. Think how you will build it
 4. Think how you will build it
@@ -124,3 +123,7 @@ Here an example of mock up:
 8. Code your structure
 
 If you have trouble remembering all the tags we've seen during the course, [take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1"), Glups
+
+Hum... There is a little issue right ? Every elements are below the other ... Should we style it to make it pretty !?
+
+### Section 3: Make it pretty ! 

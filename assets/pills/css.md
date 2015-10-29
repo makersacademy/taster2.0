@@ -14,19 +14,38 @@ CSS Syntax
 
 There are few denomination to know:
 
-A **rule** is a set of declaration and a block
+A **rule** is a consist of a selector and a block of declaration(s)
 
 A **selector** is the element you will target and style
 
 A **declaration** is a combination of property and value (it always end with a semi-colon)
 
-A **property** is behaviour of a block (background-color, width, etc)
+A **property** is behaviour of a declaration (background-color, width, etc)
 
-A **value** is how the behaviour will act (background-color: blue, width: 500px;, etc)
+A **value** is how the behaviour of the declaration will act (background-color: blue, width: 500px;, etc)
 
 
-![css syntax image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/css_syntax.png)
+![css syntax image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/CSS%20Challenge/css_syntax.png)
 
+Element inspector
+================
+
+I will let you discover this awesome tool, you can not develop a static website without it (or you will do it in twice the time)
+
+![inspect element](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/CSS%20Challenge/inspect_element.png)
+
+**On the left :**
+the website
+
+**On the right :**
+the above part
+This is your DOM, refer to [this pill :pill:](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "css selectors"): https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md if you do not remember what is the DOM
+The thing is that you can pass on hover the DOM and it will highlight the part you are on on the left side of the screen (the website)
+
+the below part
+This is your CSS toolbox, you can play with the declarations and see directly how it is displayed on the left part of your screen in order to be efficient, and understand more how things are reacting !
+
+You have many many more tools in this inspect element, but we will not cover them here ! Play around you'll love it.
 
 Introduction and inheritance
 ================

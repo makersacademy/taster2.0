@@ -25,7 +25,7 @@ A **property** is behaviour of a block (background-color, width, etc)
 A **value** is how the behaviour will act (background-color: blue, width: 500px;, etc)
 
 
-![css syntax image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/css_syntax.png)
+![css syntax image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/css_syntax.png)
 
 
 Introduction and inheritance

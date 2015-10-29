@@ -38,7 +38,7 @@ You will end up by having a great overview and answers on:
   - What are the different possibilities ?
   - How everything is related and work together ?
 
-        ###You will end up with your first website !!!
+###You will end up with your first website !!!
 
 Notices
 ================
@@ -137,11 +137,33 @@ Should we style it to make it pretty !?
 CSS Challenge - Make it pretty !
 ================
 
-### Section 1: Make the bridge !
+### Section 1: Make the bridge ! (15 min)
 
 As you've seen during the lecture, we need to make some links between the HTML pages and the CSS pages.
 
 1. We need to tell the HTML page where is the stylesheet
+
+If you want to be sure that the link is correctly done, put this code in your css file:
+
+```css
+body {
+  background: lightblue;
+}
+```
+
 2. We now need to make a bridge but in between the different elements
 
-([take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1") if you have some trouble)
+
+([take this pill :pill:](https://github.com/makersacademy/course/blob/master/pills/css.md "Taster v1") if you have some trouble)
+
+### Section 2: Place your elements !
+
+You can now write some CSS and see the beautiful changements in your browser !
+
+To not loose your mind with CSS, you need to be careful and not write on top on the other rules.
+To do that, we recommend you to code the structure of your page first and after to make it pretty.
+
+#####Why that ?
+You will have certain elements that will act the same, but they will be different in their styles.
+
+For example,

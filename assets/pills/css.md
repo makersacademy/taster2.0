@@ -39,7 +39,7 @@ the website
 
 **On the right :**
 the above part
-This is your DOM, refer to [this pill :pill:](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "css selectors"): https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md if you do not remember what is the DOM
+This is your DOM, refer to [this pill :pill:](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "css selectors") if you do not remember what is the DOM
 The thing is that you can pass on hover the DOM and it will highlight the part you are on on the left side of the screen (the website)
 
 the below part
@@ -217,7 +217,7 @@ The plus selector will help you to target the element that goes directly after t
 
 ```
 
-####Combine them !:
+####Combine them !
 
 ```css
 div#form input.input, textarea, p > button {
@@ -232,8 +232,61 @@ the input, textarea and the button inside of the paragraph if all those selector
 CSS Proprieties
 ================
 
+background-color: background color of the block selected;
+
+```css
+p.warning-notice {
+  background-color: red;
+}
+```
+
+color: font color of the block;
 
 
+```css
+p {
+  color: green;
+}
+```
+
+font: There are several properties describing what font should be used;
+
+```css
+body {
+  font-family: Arial, Helvetica, Sans-Serif; // in priority order
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+}
+```
+
+text-align: Determines how children are aligned horizontally (not just text, any children);
+
+```css
+#menu {
+  text-align: right;
+}
+```
+
+
+border: border of the block element targeted;
+
+```css
+li.menu-item {
+  border: 1px solid black;
+}
+```
+
+width and height: size of the block targeted;
+
+```css
+.photo {
+  width: 200px;
+  height: 100px;
+}
+```
+
+There is way way more CSS proprieties, [you can find them here](http://www.htmldog.com/reference/cssproperties/ "css proprieties"):
 
 
 

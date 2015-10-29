@@ -9,6 +9,25 @@ We strongly advise you to also take those quick pills:
 - [:pill: html](https://github.com/makersacademy/course/blob/master/pills/html.md "html")
 - [:pill: html5](https://github.com/makersacademy/course/blob/master/pills/html5.md "html5")
 
+CSS Syntax
+================
+
+There are few denomination to know:
+
+A **rule** is a set of declaration and a block
+
+A **selector** is the element you will target and style
+
+A **declaration** is a combination of property and value (it always end with a semi-colon)
+
+A **property** is behaviour of a block (background-color, width, etc)
+
+A **value** is how the behaviour will act (background-color: blue, width: 500px;, etc)
+
+
+![css syntax image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/css_syntax.png)
+
+
 Introduction and inheritance
 ================
 
@@ -49,9 +68,10 @@ The color of the h1 will be ? blue
 So what is this strange selector " > " ? this is a selector and it means that it will target all the descendant h1 inside a div.
 This rule is more precise, so that means that the rule will take over.
 
->**Notice:** In order to priorities some rules from an another one, you can:
-1) Put an element under an another one
+>**Notice:** In order to priorities some rules from an another one, you can:                                                
+1) Put an element under an another one                                                                                     
 2) Target more specifically an element with an selector or by doing a suite of classes, IDs, etc (explore, you will learn by doing)
+
 
 We previously introduced the concept of inheritancce, now we will see how to manage them with the different selectors:
 
@@ -141,7 +161,7 @@ p#this_is_my_class_selector {
 
 or
 
-.#his_is_my_class_selector {
+#his_is_my_class_selector {
   width: 600px;
 }
 
@@ -190,6 +210,12 @@ This will give a red border of 6px to:
 
 the input, textarea and the button inside of the paragraph if all those selector are inside a div that has the ID "form".
 
+CSS Proprieties
+================
+
+
+
+
 
 
 A bit more:
@@ -204,7 +230,7 @@ A CSS comment can be written in two differents ways:
 ```css
 
 .first_element + .second_element {
-  font-size: 22px; // inline comment (maximum 1 line)
+  font-size: 22px; //inline comment (maximum 1 line)
 }
 
 ```
@@ -238,7 +264,7 @@ This will not work...
 
 ```css
 
-div.fluid_width  {
+div.fluid_center  {
   width: 200px;
   margin-left: calc(50% - 200px);
 }

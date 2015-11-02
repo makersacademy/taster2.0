@@ -356,9 +356,9 @@ In order to position your blocks, you can attribute them two differents properti
 
 The difference between **block** and **inline**:
 
-a <p> can be a block, they will be usally displayed one after the other
+a ```html <p>``` can be a block, they will be usally displayed one after the other
 
-a <a> will generally be an inline element inside of a <p>
+a ```html <a>``` will generally be an inline element inside of a <p>
 
 You also have a common value for this property, display: inline-block;
 

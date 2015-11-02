@@ -177,9 +177,11 @@ in order to style this paragraph, you will need to target it like that in the CS
 p#this_is_my_class_selector {
   width: 600px;
 }
+```
 
 or
 
+```css
 #his_is_my_class_selector {
   width: 600px;
 }
@@ -191,6 +193,56 @@ An ID is can be used only once, a class can be re-used as much as you need.
 In order to make a better difference, think about your website, it will have many blocks that will looks exactly the same.
 For example, a paragraph can always have the same style. To do that properly, you will style one time the paragraph, with the same class and it will looks the same on all your website.
 
+####The diple selector " > ":
+
+The Diple will help you to select the next element in the DOM.
+
+```css
+
+div#container > ul {
+  width: 600px;
+}
+
+```
+
+This will give a width of 600px to the direct the ul under the div that has the ID container.
+
+If you have :
+
+```html
+
+<div id="container">
+   <ul>
+      <li> Item
+        <ul> Second List
+           <li> Item of the second list</li>
+        </ul>
+      </li>
+      <li> Item </li>
+      <li> Item </li>
+      <li> Item </li>
+   </ul>
+</div>
+
+```
+
+The second list will not be affected by the css declaration.
+
+####The plus selector " + ":
+
+This will select only the first element after the tag:
+
+```css
+
+ul > li {
+  width: 600px;
+}
+
+```
+
+Only the first ```li``` will be affeted by the declaration.
+
+
 ####The comma selector " , ":
 
 This will help you to define the same CSS rules to multiple different element.
@@ -201,18 +253,6 @@ For example, if I want that all of my input and textarea have the same width, I 
 
 input, textarea {
   width: 600px;
-}
-
-```
-
-####The plus selector " + ":
-
-The plus selector will help you to target the element that goes directly after the previous one.
-
-```css
-
-.first_element + .second_element {
-  font-size: 22px;
 }
 
 ```
@@ -356,9 +396,9 @@ In order to position your blocks, you can attribute them two differents properti
 
 The difference between **block** and **inline**:
 
-a ```html <p>``` can be a block, they will be usally displayed one after the other
+a ```<p>``` can be a block, they will be usally displayed one after the other
 
-a ```html <a>``` will generally be an inline element inside of a <p>
+a ```<a>``` will generally be an inline element inside of a <p>
 
 You also have a common value for this property, display: inline-block;
 
@@ -439,7 +479,19 @@ It has a width of 200px and it is at 50% of the left side of the page.
 
 ####Vendor prefix
 
--webkit- for Chrome
--moz- for Firefox
--o- for Opera
--ms- for IE
+-webkit- for Chrome                                                                                                          
+-moz- for Firefox                                                   
+-o- for Opera                                                   
+-ms- for IE                                                   
+
+For Example, a transition will be written like that:
+
+```css
+.transition {
+  -webkit-transition: 1s all ease;
+     -moz-transition: 1s all ease;
+      -ms-transition: 1s all ease;
+       -o-transition: 1s all ease;
+          transition: 1s all ease;
+}
+```

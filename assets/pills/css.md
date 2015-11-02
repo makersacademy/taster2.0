@@ -39,7 +39,7 @@ the website
 
 **On the right :**
 the above part
-This is your DOM, refer to [this pill :pill:](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "css selectors") if you do not remember what is the DOM
+This is your DOM, refer to [this pill :pill:](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "css selectors") if you do not remember what is the DOM.                                                                                
 The thing is that you can pass on hover the DOM and it will highlight the part you are on on the left side of the screen (the website)
 
 the below part
@@ -232,7 +232,7 @@ the input, textarea and the button inside of the paragraph if all those selector
 CSS Proprieties
 ================
 
-background-color: background color of the block selected;
+**background-color:** background color of the block selected;
 
 ```css
 p.warning-notice {
@@ -240,7 +240,7 @@ p.warning-notice {
 }
 ```
 
-color: font color of the block;
+**color:** font color of the block;
 
 
 ```css
@@ -249,7 +249,7 @@ p {
 }
 ```
 
-font: There are several properties describing what font should be used;
+**font:** There are several properties describing what font should be used;
 
 ```css
 body {
@@ -260,7 +260,7 @@ body {
 }
 ```
 
-text-align: Determines how children are aligned horizontally (not just text, any children);
+**text-align:** Determines how children are aligned horizontally (not just text, any children);
 
 ```css
 #menu {
@@ -269,7 +269,7 @@ text-align: Determines how children are aligned horizontally (not just text, any
 ```
 
 
-border: border of the block element targeted;
+**border:** border of the block element targeted;
 
 ```css
 li.menu-item {
@@ -277,7 +277,7 @@ li.menu-item {
 }
 ```
 
-width and height: size of the block targeted;
+**width and height:** size of the block targeted;
 
 ```css
 .photo {
@@ -288,9 +288,95 @@ width and height: size of the block targeted;
 
 There is way way more CSS proprieties, [you can find them here](http://www.htmldog.com/reference/cssproperties/ "css proprieties"):
 
+The box model:
+================
 
+![css box model](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/CSS%20Challenge/box_model.png)
 
-A bit more:
+This will help you to place your elements.
+
+598x198 : This is width and height of the element (let's say it is a paragraph).
+padding 16px: Your paragraph has a 16px padding on top bottom left and right.
+margin-top & margin-bottom 30px: Your paragraph will be placed at 30px from the block above and below.
+margin-left & margin-right 40px: Your paragraph will be placed at 40px from the block on the left and on the right.
+
+![css box model](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/CSS%20Challenge/boxmodelannot.png)
+
+```css
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+```
+Here is the math:
+320px (width)
++ 20px (left + right padding)
++ 10px (left + right border)
++ 0px (left + right margin)
+= 350px
+
+Or you can use a simple declaration:
+
+```css
+div {
+    width: 350px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
+```
+Here is the math:
+350px (width)
++ 20px (left + right padding)
++ 10px (left + right border)
++ 0px (left + right margin)
+= 350px
+
+WTF?
+
+The box-sizing: border-box; declaration takes the border and the padding in count when you set a width !
+Now the full block will have a width of 350px.
+It is way easy to manage such a block.
+
+Positioning
+================
+
+Positioning is the aim of CSS, without it, our pages will be a succession of blocks.
+
+>A block-level element occupies the entire "line" by default, so other elements are positioned above and below it, whereas an inline element flows with other elements, leaving them on their left and on the right.
+Evgeny
+
+In order to position your blocks, you can attribute them two differents properties:
+
+####Display
+
+The difference between **block** and **inline**:
+
+a <p> can be a block, they will be usally displayed one after the other
+
+a <a> will generally be an inline element inside of a <p>
+
+You also have a common value for this property, display: inline-block;
+
+This will help you to give a width and height to your inline element.
+
+display: none; is used to hide an element (You will see more in the Javascript Part)
+
+####Position
+
+position: relative; This set the block in a relative position. That means it will be positioned after the lat relative block.
+
+position: absolute; This means it is "floating" inside the last relative block.
+
+position: fixed; This will float on the page where you ask me to be, you can scroll the window, it will follow.
+
+[Checkout this super quick tutorial that will helps you to understand everything.](http://learnlayout.com/ "learn layout"):
+
+Tips&Tricks:
 ================
 
 ####Comments
@@ -332,6 +418,11 @@ again ..
 
 This will not work...
 
+####Where I am?
+
+If you have trouble to localize your block or understand its behaviour, write a border: 1px solid black;
+This little meanless trick will save you a lot of time for the beginning.
+
 ####Logic :
 
 ```css
@@ -345,3 +436,10 @@ div.fluid_center  {
 
 This will center the .fluid_width div block in the middle.
 It has a width of 200px and it is at 50% of the left side of the page.
+
+####Vendor prefix
+
+-webkit- for Chrome
+-moz- for Firefox
+-o- for Opera
+-ms- for IE

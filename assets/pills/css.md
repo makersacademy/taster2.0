@@ -488,10 +488,10 @@ For Example, a transition will be written like that:
 
 ```css
 .transition {
-  -webkit-transition: 1s all ease;
-     -moz-transition: 1s all ease;
-      -ms-transition: 1s all ease;
-       -o-transition: 1s all ease;
-          transition: 1s all ease;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+       -o-transition: all 1s ease;
+          transition: all 1s ease;
 }
 ```

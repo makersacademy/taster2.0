@@ -64,14 +64,16 @@ In order to keep all your work organize and from the experience we have now, you
 
 Let's code !!!
 
-HTML Challenge (about 1h30)
+Challenge 1 - Structure your app - (about 1h30)
 ================
 
 Now that you understood:
   - What is HTML ?
   - Why is it essential to know how to play with it ?
 
-We will create our first webpage step by step!
+Look what we will build today !
+
+![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/Hello%20world.png)
 
 ### Section 1: Hello World ! (20 min)
 Let's start by simply reproducing the picture bellow !
@@ -99,6 +101,22 @@ Open the link in an another tab - you can check: "attributes on html links" on g
 Show off ! You just created your first html page !
 
 We will soon push it live, but you've just learnt something essential, you first work locally and when you've got the result you expected, you can push it live !
+
+### Section 2: The first real step (30min)
+
+The first thing you really start with is actually not coding.
+
+1. Take a paper, a pen, and draft the website with all of its element
+2. Name those elements with the right tags
+3. Talk about it with your pair
+
+### Section 3: Code the HTML structure of your website (30min)
+
+Now you can code what you've put on the paper
+
+1. Indent properly your code
+2. Write as much attributes as you can
+3. Once you are done, call me !
 
 ### Section 2: Design your thought ! (30 min)
 Now that you know how to see your code in a web browser, let's start to think like a real developer !
@@ -134,7 +152,7 @@ Hum... There is a little issue right ? Every elements are below the other ...
 Should we style it to make it pretty !?
 
 
-CSS Challenge - Make it pretty !
+Challenge 2 - Make it pretty !
 ================
 
 ### Section 1: Make the bridge ! (15 min)

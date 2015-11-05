@@ -73,7 +73,7 @@ Now that you understood:
 
 Look what we will build today !
 
-![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/Hello%20world.png)
+![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/Challenges/Challenge_2/assets/images/Challenge%202.png)
 
 ### Section 1: Hello World ! (20 min)
 Let's start by simply reproducing the picture bellow !
@@ -107,50 +107,35 @@ We will soon push it live, but you've just learnt something essential, you first
 The first thing you really start with is actually not coding.
 
 1. Take a paper, a pen, and draft the website with all of its element
+  - The menu
+  - The article (title, text and picture)
+  - The footer
+  - The background image
+2. Talk about it with your pair
 2. Name those elements with the right tags
-3. Talk about it with your pair
+4. Talk about it with your pair
+
+You can do something like that but way more simple.
+
+![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/mockup%20example.gif)
 
 ### Section 3: Code the HTML structure of your website (30min)
 
 Now you can code what you've put on the paper
 
-1. Indent properly your code
-2. Write as much attributes as you can
-3. Once you are done, call me !
+1. Go back on your text editor, delete the inside of the body
+2. Start coding what you've put on paper
 
-### Section 2: Design your thought ! (30 min)
-Now that you know how to see your code in a web browser, let's start to think like a real developer !
+> **Good practices:**
+Indent your code
+Write attributes
 
-Before starting to code, we need to think, plan and organize our self ! Talk as much as you can with your pair !
 
-1. Pick a theme that you like
-2. Take a paper and a pen and draw your mock ups
-Here an example of mock up, make it way more simple, this is a difficult example to begin:
-![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/assets/images/HTML%20Challenge/mockup%20example.gif)
-3. Think how you will build it
-4. Think how you will build it
-5. Think how you will build it
-6. Write on the paper all the name of your tags on all the elements you've designed
-
-### Section 4: Build it ! (30 min)
-
-We will now code our page !
-
-1. Make a new folder for your images
-  - makersacademy
-    - Taster
-      - HTML Challenge
-        - assets
-          - images
-        - index.html
-2. Start to code the structure and put your content inside
-
-If you have trouble remembering all the tags we've seen during the course, [take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v1"), Glups
+If you have trouble remembering all the tags we've seen during the course, [take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/html.md "Taster v2"), Glups
 
 Hum... There is a little issue right ? Every elements are below the other ...
 
 Should we style it to make it pretty !?
-
 
 Challenge 2 - Make it pretty !
 ================
@@ -161,27 +146,40 @@ As you've seen during the lecture, we need to make some links between the HTML p
 
 1. We need to tell the HTML page where is the stylesheet
 
-If you want to be sure that the link is correctly done, put this code in your css file:
+If you want to be sure that the link is correctly done, put something like that in your css file:
 
 ```css
+
 body {
   background: lightblue;
 }
+
 ```
 
-2. We now need to make a bridge but in between the different elements
+### Section 2: Create the blocks ! (1h30)
 
+1. Let's start by the menu, It needs to be:
+  - On the top, right
+  - Needs to be a block that push other elements underneath
+  - It has the "monospace" font
+  - The link (make it open in a new tab)
+
+Write meaningful classes and Ids in order to let a non coder person understanding what you are styling.
+
+For example:
+
+Do not write classes like :
+  .x or .y, etc
+
+Prefer:
+  .menu .menu__ul .menu__li
+
+3. Go on with the article and then the footer
 
 ([take this pill :pill:](https://github.com/makersacademy/course/blob/master/pills/css.md "Taster v1") if you have some trouble)
 
-### Section 2: Place your elements !
-
-You can now write some CSS and see the beautiful changements in your browser !
-
 To not loose your mind with CSS, you need to be careful and not write on top on the other rules.
-To do that, we recommend you to code the structure of your page first and after to make it pretty.
+That's why, we recommend you to code the structure of your page first and after to make it pretty.
 
-#####Why that ?
-You will have certain elements that will act the same, but they will be different in their styles.
-
-For example,
+Challenge 3 - Be agile !
+================

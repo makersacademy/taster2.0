@@ -20,3 +20,5 @@ Ok so now that you've got all the vision about the agile methodology, let's make
 For this exercise, you'll be both product owner and stackholder.
 
 You can checkout what I have done in here LINK
+
+[Next challenge, Make it live !](https://github.com/makersacademy/taster2.0/blob/master/challenge_4.md "Challenge 4")

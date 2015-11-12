@@ -71,3 +71,6 @@ If you have trouble remembering all the tags we've seen during the course, [take
 Hum... There is a little issue right ? Every elements are below the other ...
 
 Should we style it to make it pretty !?
+
+
+[Next challenge, Make it Pretty !](https://github.com/makersacademy/taster2.0/blob/master/challenge_2.md "Challenge 2")

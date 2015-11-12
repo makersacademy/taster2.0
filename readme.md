@@ -64,9 +64,9 @@ In order to keep all your work organize and from the experience we have now, you
 
 Let's start !
 ================
-If you are already done with the [Pre course](https://github.com/join "pre course"), take the first challenge !
+If you are already done with the [Pre course](https://github.com/makersacademy/taster2.0/blob/master/pre-course.md "pre course"), take the first challenge !
 
-- [Challenge 1](https://github.com/join "Challenge 1")
-- [Challenge 2](https://github.com/join "Challenge 2")
-- [Challenge 3](https://github.com/join "Challenge 3")
-- [Challenge 4](https://github.com/join "Challenge 4")
+- [Challenge 1](https://github.com/makersacademy/taster2.0/blob/master/challenge_1.md "Challenge 1")
+- [Challenge 2](https://github.com/makersacademy/taster2.0/blob/master/challenge_2.md "Challenge 2")
+- [Challenge 3](https://github.com/makersacademy/taster2.0/blob/master/challenge_3.md "Challenge 3")
+- [Challenge 4](https://github.com/makersacademy/taster2.0/blob/master/challenge_4.md "Challenge 4")

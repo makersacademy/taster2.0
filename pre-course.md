@@ -1,4 +1,4 @@
-Pre request
+Pre course
 ================
 
 Before writing your first line of code, you need to install many many things.
@@ -56,4 +56,3 @@ Find a strong rope, do a suicide node, and use it.
 You will need to install few things
 - http://scoop.sh/
 - https://github.com/ConradIrwin/pry-windows
--

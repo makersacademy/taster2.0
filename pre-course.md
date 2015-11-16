@@ -12,7 +12,7 @@ Let's sum them up quickly:
 
 This is definitly not an exhaustive list, but it will be enough for the Taster weekend
 
-######On MAC and Windows
+####On MAC and Windows
 1- Create an account on [Github](https://github.com/join "Github")                                            
 2- Create an account on [Heroku](https://signup.heroku.com/ "Heroku")                                                   
 3- Download and install the **right** heroku toolbelt for your OS on [Heroku Toolbelt](https://toolbelt.heroku.com/                                         "Heroku toolbelt")
@@ -20,12 +20,12 @@ This is definitly not an exhaustive list, but it will be enough for the Taster w
 >The toolbelt is a set of few things that you will to develop.
 it has Heroku command line + Git and ruby
 
-4- Restart your computer
-5- Open your terminal and run:
+4- Restart your computer                                                                  
+5- Open your terminal and run:                                                                  
 
-The " $ " sign is the line you need to write (don't write it), the other lines are the terminal answers
+>The " $ " sign is the line you need to write (don't write it), the other lines are the terminal answers
 
-You will never see the bullet points while you are typing your password in the terminal.
+>You will never see the bullet points while you are typing your password in the terminal.
 
 ```bash
 $ heroku login

@@ -17,7 +17,15 @@ body {
 
 ```
 
+> For the geekest, open the element inspector, go to the network tab, reload the page and see if it is loading the page correctly.
+
 ### Section 2: Create the blocks ! (1h30)
+
+>Write meaningful "classes" and "IDs" in order to let anybody understanding what you are styling.
+Do not write classes like:
+  .x or .y, etc
+Prefer:
+  .menu .menu__ul .menu__li
 
 1. Let's start by the menu, It needs to be:
   - On the top, right
@@ -25,17 +33,14 @@ body {
   - It has the "monospace" font
   - The link (make it open in a new tab)
 
-Write meaningful classes and Ids in order to let a non coder person understanding what you are styling.
+2. Go on with the article:
+  - Is relatively positioned after the menu
+  - The width is about 80vw (learn about vw and vh units)
+  - In order to put the picture on the right and the text on the left, you can float: left; the text.
 
-For example:
-
-Do not write classes like :
-  .x or .y, etc
-
-Prefer:
-  .menu .menu__ul .menu__li
-
-3. Go on with the article and then the footer
+3. The footer
+  - Can be in position: fixed;
+  - the text is centered by default
 
 ([take this pill :pill:](https://github.com/makersacademy/course/blob/master/pills/css.md "Taster v1") if you have some trouble)
 

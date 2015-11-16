@@ -9,7 +9,8 @@ Look what we will build today !
 
 ![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/Challenges/Challenge_2/assets/images/Challenge%202.png)
 
-#You can see it live here
+[You can see it live here](https://taster-challenge-2.herokuapp.com/ "Challenge_2")
+
 
 ### Section 1: Hello World ! (20 min)
 Let's start by simply reproducing the picture bellow !

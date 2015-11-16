@@ -54,3 +54,13 @@ On Windows
 You will need to install few things
 - http://scoop.sh/
 - https://github.com/ConradIrwin/pry-windows
+
+Let's start !
+================
+
+If you are ready, take the first challenge !
+
+- [Challenge 1](https://github.com/makersacademy/taster2.0/blob/master/challenge_1.md "Challenge 1")
+- [Challenge 2](https://github.com/makersacademy/taster2.0/blob/master/challenge_2.md "Challenge 2")
+- [Challenge 3](https://github.com/makersacademy/taster2.0/blob/master/challenge_3.md "Challenge 3")
+- [Challenge 4](https://github.com/makersacademy/taster2.0/blob/master/challenge_4.md "Challenge 4")

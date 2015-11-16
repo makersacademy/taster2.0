@@ -76,5 +76,8 @@ Let's sum them up quickly:
 2- Start writing user stories and user scenarios.                                        
 3- Draw the Mockups in order to not forget anything and to be as clear as possible with your team.                      
 4- Think the architecture of your website, write it on paper.                                        
-5- Think how you will display the element, their position, and think about the Responsiveness of it.                                        
+5- Think how you will display the element, their position, and think about the Responsiveness of it.                     
+
 > If you think you are not ready for responsive, no worries, we can wait to have strong basis and after jump on Responsive.
+
+You can now go code and push it live every time you get something done.

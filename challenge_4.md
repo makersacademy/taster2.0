@@ -17,24 +17,7 @@ In order to link it, you can:
 Load the CDN, if the CDN is not available, then, load the local library                                               
 I let you explore how to do that ;)
 
-###Section 2 -  Make it ! (the rest of the day, and more ;) )
-
-Yesterday you prepared all the material to be ready for coding.
-
-We've seen the step you should take before coding.
-
-Let's sum them up quickly:
-
-1- Think about the project and write a correct descriptive.
-  - Talk about it with your pair
-  - Defines what it will do, for who, how, etc.
-2- Start writing user stories and user scenarios.
-3- Draw the Mockups in order to not forget anything and to be as clear as possible with your team.
-4- Think the architecture of your website, write it on paper.
-5- Think how you will display the element, their position, and think about the Responsiveness of it.
-> If you think you are not ready for responsive, no worries, we can wait to have strong basis and after jump on Responsive.
-
-###Section 3 -  The big settlement !
+###Section 2 -  The big settlement !
 
 1- Open your terminal
 2- Clone the project from github:
@@ -79,13 +62,19 @@ git commit -m "adds my first feature"
 git push origin master && git push heroku master
 heroku open
 ```
-###Section 4 -  Once you are set up !
+###Section 3 -  Make it ! (the rest of the day, and more ;) )
 
-You know what to do !
+Yesterday you prepared all the material to be ready for coding.
 
-You've got:
+We've seen the step you should take before coding.
 
-- Your project methodology
-- Your app, ready to be live
+Let's sum them up quickly:
 
-Trust your self and follow your methodology, now go coding !!
+1- Think about the project and write a correct descriptive.                                        
+  - Talk about it with your pair                                        
+  - Defines what it will do, for who, how, etc.                                        
+2- Start writing user stories and user scenarios.                                        
+3- Draw the Mockups in order to not forget anything and to be as clear as possible with your team.                      
+4- Think the architecture of your website, write it on paper.                                        
+5- Think how you will display the element, their position, and think about the Responsiveness of it.                                        
+> If you think you are not ready for responsive, no worries, we can wait to have strong basis and after jump on Responsive.

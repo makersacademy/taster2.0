@@ -1,4 +1,4 @@
-Challenge 3 - Be agile ! 30min
+Challenge 3 - Be agile ! 
 ================
 
 Ok so now that you've got all the vision about the agile methodology, let's make it happen !

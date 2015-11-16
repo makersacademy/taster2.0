@@ -42,6 +42,8 @@ machine git.heroku.com
   password c4cd94da15ea0544802c2cfd5ec4ead324327430
 ```
 
+[Follow this link to set up Git on your computer:](https://help.github.com/articles/set-up-git/ "set up git")
+
 On Mac
 ================
 
@@ -55,12 +57,5 @@ You will need to install few things
 - http://scoop.sh/
 - https://github.com/ConradIrwin/pry-windows
 
-Let's start !
-================
 
-If you are ready, take the first challenge !
-
-- [Challenge 1](https://github.com/makersacademy/taster2.0/blob/master/challenge_1.md "Challenge 1")
-- [Challenge 2](https://github.com/makersacademy/taster2.0/blob/master/challenge_2.md "Challenge 2")
-- [Challenge 3](https://github.com/makersacademy/taster2.0/blob/master/challenge_3.md "Challenge 3")
-- [Challenge 4](https://github.com/makersacademy/taster2.0/blob/master/challenge_4.md "Challenge 4")
+**You are done, wait the weekend to start the challenges :) **

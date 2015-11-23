@@ -42,7 +42,7 @@ Prefer:
   - Can be in position: fixed;
   - the text is centered by default
 
-([take this pill :pill:](https://github.com/makersacademy/course/blob/master/pills/css.md "Taster v1") if you have some trouble)
+([take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/css.md "Taster v1") if you have some trouble)
 
 To not loose your mind with CSS, you need to be careful and not write on top on the other rules.
 That's why, we recommend you to code the structure of your page first and after to make it pretty.

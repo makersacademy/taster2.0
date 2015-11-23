@@ -25,11 +25,21 @@ I let you explore how to do that ;)
 ```bash
 git clone git@github.com:BobRazoswki/test-taster.git
 ```
-3- Open the project with your text editor
+3- Open the project with your text editor  
+
+In mac, you can do :
+
+```bash
+cd test-taster
+atom .
+```
+
+If you prefer, you can open your text editor and open the project via File > open >
+
 4- In order to see the project live, you will need to start the server with:
 
 ```bash
-cd /the root path of your repository
+cd /the root path of your repository (here it should be cd test-taster)
 heroku local
 ```
 

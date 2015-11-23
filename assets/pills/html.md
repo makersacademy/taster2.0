@@ -22,12 +22,12 @@ We strongly advise you to also take those quick pills:
 </head>
 <body>
   <header>Header of the current section/article</header>
-  <nav>Used for menu<nav>
+  <nav>Used for menu</nav>
     <ul>Bullet point list (often used in <nav> tag in order to structure your menu)
-      <li>First bullet<li>
-      <li>Second bullet<li>
-      <li>…<li>
-    <ul>
+      <li>First bullet</li>
+      <li>Second bullet</li>
+      <li>…</li>
+    </ul>
   <article>If the content make sense on his own</article>
   <section>If the content is related</section>
   <h1>from h1 to h6, those are the titles (by importance)</h1>

@@ -23,11 +23,13 @@ To do so you will need to:
 
 2. Create an index.html file
 
-3. Write a title
+3. Write the doctype, head and body like we've seen in during the lecture
 
-4. Make your title becoming a link that goes anywhere you want
+4. Write a title (inside your body)
 
-5. Right click on your index.html file and open it with your web browser
+5. Make your title becoming a link that goes anywhere you want
+
+6. Right click on your index.html file and open it with your web browser
 
 > **Good practices:**
 Indent your code

@@ -17,7 +17,7 @@ body {
 
 ```
 
-> For the geekest, open the element inspector, go to the network tab, reload the page and see if it is loading the page correctly.
+> For the geekest, open the element inspector, go to the network tab, reload the page and see if it is loading the style.css page correctly.
 
 ### Section 2: Create the blocks ! (1h30)
 
@@ -31,7 +31,7 @@ Prefer:
   - On the top, right
   - Needs to be a block that push other elements underneath
   - It has the "monospace" font
-  - The link (make it open in a new tab)
+  - The link (make it open in a new tab with an attribute)
 
 2. Go on with the article:
   - Is relatively positioned after the menu
@@ -41,6 +41,8 @@ Prefer:
 3. The footer
   - Can be in position: fixed;
   - the text is centered by default
+
+>This is exhaustive, you can do whatever you want, but try to think in this way.
 
 ([take this pill :pill:](https://github.com/makersacademy/taster2.0/blob/master/assets/pills/css.md "Taster v1") if you have some trouble)
 

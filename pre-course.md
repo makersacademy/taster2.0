@@ -52,6 +52,7 @@ On Windows
 it has Heroku command line + Git and ruby
 
 4- You will need to install few other things
+- ruby language
 - http://scoop.sh/
 - https://github.com/ConradIrwin/pry-windows
 

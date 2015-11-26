@@ -6,7 +6,7 @@ Ok so now that you've got all the vision about the agile methodology, let's make
 1- We want to organize our self so we will first start with defining the vision we have for the project.                  
 2- We can now identify the stackholders and write some users stories.                             
 3- Once we get a bunch of user stories we can move to the scrum board.  
-4- Create a new repo in your github.
+4- Fork the challenge 4 repo.
 5- Create an account on: [Waffle.io](https://waffle.io/ "Waffle.io") with your GitHub account.
 > Add directly your public repo.
 

@@ -5,12 +5,13 @@ Now that you understood:
   - What is HTML ?
   - Why is it essential to know how to play with it ?
 
-Look what we will build today !
+Look what we can build today !
 
 ![hello world image](https://raw.githubusercontent.com/makersacademy/taster2.0/master/Challenges/Challenge_2/assets/images/Challenge%202.png)
 
 [You can see it live here](https://taster-challenge-2.herokuapp.com/ "Challenge_2")
 
+>This is just an example, you can build whatever you want, but try to not do something too complicated..
 
 ### Section 1: Hello World ! (20 min)
 Let's start by simply reproducing the picture bellow !
@@ -23,11 +24,11 @@ To do so you will need to:
 
 2. Create an index.html file
 
-3. Write the doctype, head and body like we've seen in during the lecture
+3. Write the doctype, head and body like we have seen in during the lecture
 
 4. Write a title (inside your body)
 
-5. Make your title becoming a link that goes anywhere you want
+5. Make your title (h1) becoming a link that goes anywhere you want
 
 6. Right click on your index.html file and open it with your web browser
 
@@ -39,13 +40,13 @@ Open the link in an another tab - you can check: "attributes on html links" on g
 
 Show off ! You just created your first html page !
 
-We will soon push it live, but you've just learnt something essential, you first work locally and when you've got the result you expected, you can push it live !
+Tomorrow, we will push it live, but you've just learnt something essential, you first work locally and when you've got the result you expected, you can push it live !
 
 ### Section 2: The first real step (30min)
 
 The first thing you really start with is actually not coding.
 
-1. Take a paper, a pen, and draft the website with all of its element
+1. Take a paper, a pen, and draft [the website](https://taster-challenge-2.herokuapp.com/ "Challenge_2") with all of its element
   - The menu
   - The article (title, text and picture)
   - The footer
@@ -62,7 +63,7 @@ You can do something like that but way more simple.
 Now you can code what you've put on the paper
 
 1. Go back on your text editor, delete the inside of the body
-2. Start coding what you've put on paper
+2. Start coding what you've did on paper
 
 > **Good practices:**
 Indent your code

@@ -12,6 +12,8 @@ Let's sum them up quickly:
 
 This is definitly not an exhaustive list, but it will be enough for the Taster weekend
 
+> If you are looking for your terminal, open spotlight and look for Terminal.app or you can direclty find it in your applications folder
+
 ####On MAC
 1- Create an account on [Github](https://github.com/join "Github")                                            
 2- Create an account on [Heroku](https://signup.heroku.com/ "Heroku")                                                   
@@ -41,19 +43,5 @@ machine git.heroku.com
 
 [Follow this link to set up Git on your computer:](https://help.github.com/articles/set-up-git/ "set up git")
 
-On Windows
-================
-
-1- Create an account on [Github](https://github.com/join "Github")                                              
-2- Create an account on [Heroku](https://signup.heroku.com/ "Heroku")            
-3- Download and install the **right** heroku toolbelt for your OS on [Heroku Toolbelt](https://toolbelt.heroku.com/                                         "Heroku toolbelt")
-
->The toolbelt is a set of few things that you will to develop.
-it has Heroku command line + Git and ruby
-
-4- You will need to install few other things
-- ruby language
-- http://scoop.sh/
-- https://github.com/ConradIrwin/pry-windows
 
 **You are done, wait the weekend to start the challenges**

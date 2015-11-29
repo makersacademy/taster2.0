@@ -108,7 +108,7 @@ end
   - http://my-application.herokuapp.com  (after having pushed it to github)
 
 4- You can know link your different pages inside your menu :)                                                       
-5- Try to make your page responsive if you can
+5- Try to make your page responsive
 
 > If you think you are not ready for responsive, no worries, we can wait to have strong basis and after jump on Responsive.
 

@@ -51,9 +51,9 @@ As Evgeny wrote in Taster v1:
 >You're strongly encouraged to type in all code instead of copy-pasting it. This will really help your understanding of how everything works.
 We can't stress this enough. Copy and Paste is the DEVIL!! Even though at times you will be copying chunks of code, the simple process of typing it yourself will help you learn. Trust us. You can't cut corners.
 
-###Organization
-We strongly advice you to start a MakersAcademy directory somewhere in your computer
-In order to keep all your work organize and from the experience we have now, you can organize this directory with this structure:
+###Organisation
+We advise you to start a MakersAcademy directory somewhere in your computer.
+To keep all your work organised use this structure:
 - makersacademy
   - Taster
     - HTML Challenge

@@ -17,7 +17,7 @@ This is definitly not an exhaustive list, but it will be enough for the Taster w
 ####On MAC
 1- Create an account on [Github](https://github.com/join "Github")                                            
 2- Create an account on [Heroku](https://signup.heroku.com/ "Heroku")                                                   
-3- Follow the mac path on [Prepare to code](https://preparetocode.io "prepare to code")                                 
+3- Follow the mac path on [Prepare to code](http://preparetocode.io "prepare to code")                                 
 4- Once you are done with everything, restart your computer                                                            
 5- Open your terminal and run:                                                                                                                                      
 >You can find your terminal throw "spotlight" or in applications > Utilities > Terminal.app
